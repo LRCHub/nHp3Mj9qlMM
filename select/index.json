@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "翼をください",
+  "base_artist": "桜高軽音部",
+  "createdAt": "2026-03-17T08:57:51.623044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "翼をください",
+      "artist": "ヘイリー",
+      "has_synced": false,
+      "path": "select/01_翼をください_ヘイリー.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tsubasa wo Kudasai [翼をください]",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/02_Tsubasa_wo_Kudasai_[翼をください]_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "翼をください",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/03_翼をください_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "翼をください",
+      "artist": "佐咲紗花",
+      "has_synced": true,
+      "path": "select/04_翼をください_佐咲紗花.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "翼をください",
+      "artist": "桜高軽音部 (豊崎愛生, 日笠陽子, 佐藤聡美, 寿美菜子)",
+      "has_synced": true,
+      "path": "select/05_翼をください_桜高軽音部_(豊崎愛生,_日笠陽子,_佐藤聡美,_寿美菜子).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "翼をください",
+      "artist": "桜高軽音部",
+      "has_synced": true,
+      "path": "select/06_翼をください_桜高軽音部.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "翼をください",
+      "artist": "HO‐KAGO TEA TIME",
+      "has_synced": true,
+      "path": "select/07_翼をください_HO‐KAGO_TEA_TIME.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "翼をください",
+      "artist": "After School Tea Time",
+      "has_synced": true,
+      "path": "select/08_翼をください_After_School_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "翼をください (Instrumental)",
+      "artist": "After School Tea Time",
+      "has_synced": true,
+      "path": "select/09_翼をください_(Instrumental)_After_School_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "翼をください – Tribute to \"Sound of Music\"",
+      "artist": "林原めぐみ",
+      "has_synced": true,
+      "path": "select/10_翼をください_–_Tribute_to__Sound_of_Music_林原めぐみ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "翼をください - Tsubasa Wo Kudasai",
+      "artist": "Junko Yamamoto",
+      "has_synced": true,
+      "path": "select/11_翼をください_-_Tsubasa_Wo_Kudasai_Junko_Yamamoto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "翼をください-Tribute to \"Sound of Music\"",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/12_翼をください-Tribute_to__Sound_of_Music_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "翼をください – Tribute to \"Sound of Music\"",
+      "artist": "Hayashibara, Megumi",
+      "has_synced": true,
+      "path": "select/13_翼をください_–_Tribute_to__Sound_of_Music_Hayashibara,_Megumi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "翼をください (Instrumental)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/14_翼をください_(Instrumental)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "翼をください – Tribute to \"Sound of Music\"",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/15_翼をください_–_Tribute_to__Sound_of_Music_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "翼をください",
+      "artist": "桜高軽音部",
+      "has_synced": false,
+      "path": "select/pl_01_翼をください_桜高軽音部.txt"
+    }
+  ]
+}
